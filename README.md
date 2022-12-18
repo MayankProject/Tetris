@@ -1,5 +1,5 @@
 # Street Fight
-[Deployment/>](https://mayankproject.github.io/Tetris/)
+[Deployment](https://mayankproject.github.io/Tetris/)
 
 # Controls
 
