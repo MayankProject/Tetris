@@ -1,4 +1,4 @@
-# Street Fight
+# Tetris
 [Deployment](https://mayankproject.github.io/Tetris/)
 
 # Controls
